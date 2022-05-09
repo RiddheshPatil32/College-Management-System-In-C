@@ -1,0 +1,8 @@
+             I st Semester CSE Courses
+Sr.No.    Course Code     Course Name
+1.         ASL 101     Applied Sciences
+2.         CSL 101     Computer Programming
+3.         EEE 101     Elements of Electrical Engineering
+4.         EDC 101     Electronic Devices and Circuits
+5.         CFE 102     Calculus for Engineers
+6.         EVS 102     Environmental Studies

@@ -1,0 +1,4 @@
+Name             Enrollment No.            Phone No.         Address
+Riddhesh         BT21CSE032                90921881912       Mahad,Maharashtra
+Raj              BT21CSE012                73283712899       Mumbai
+Yash             BT21CSE011                89438981212       Pune

@@ -1,0 +1,11 @@
+Day/Time     Monday      Tuesday    Wednesday    Thrusday    Friday     Saturday
+6-6.55am                  YOGA                                YOGA 
+8-8.55am      CP           AS         CFE          EDC         CP         EDC       
+9-9.55am      CFE          CP                      AS          EEE        AS
+10-10.55am   
+11-11.55am    EDC                      AS          EVS         EDC
+12-12:55pm    EEE          EEE         EVS                                CFE
+LUNCH Time
+2-2:55pm                              CP LAB       EEE LAB     AS         
+3-3:55pm      AS LAB       EDC LAB     EVS
+4-4.55pm                                                       Maths Tut.  CP LAB

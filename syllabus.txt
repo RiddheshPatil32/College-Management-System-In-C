@@ -1,0 +1,20 @@
+Module 1:
+Introduction : Computer generation and evolution, flowcharts, algorithm, What is C?,
+constants, variables, scope of variable, data types, operators, arithmetic expression,
+Hierarchy of operators, control flows, conditional operator, loops, switch concept.
+Program Structure – Basic programs to illustrate structure of C program and its flow in
+execution.
+Module 2:
+Function : Introduction to function and parameter passing, returning value, recursive
+functions, macros.
+Module 3:
+Arrays – One-dimension and multi-dimension arrays, array initialization, how arrays are
+stored in memory, array as parameter in functions, programs based on arrays.
+Module 4:
+Pointers : Initialization, accessing a variable through pointers, pointers as function
+arguments, pointer to array, arrays of pointers, pointers to pointers.
+Module 5:
+Structure and Union : Defining a structure, accessing structure members, Array of
+structure, unions.
+Module 6:
+File Handling: reading from and writing to a file.
